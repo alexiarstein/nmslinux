@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# NO MAN SKY SAVE EDITOR
+# Fork for Linux to make people's lives a little bit easier
+# Contributor: Alexia Rivera https://github.com/alexiarstein
+# ----------------------------------------------------------
+
+# Main development
+# Author: GoatFungus https://github.com/goatfungus
+# ----------------------------------------------------------
+cy=$(tput setaf 6)
+re=$(tput init)
+gr=$(tput setaf 2)
+ma=$(tput setaf 5)
+# bash is beautiful.
+clear
+echo "${cy}* * * ${gr}NO MAN'S SKY SAVE EDITOR - LINUX VERSION ${ma}(PORTABLE) ${cy}* * *${re}"
+echo ""
+echo "  Linux Port by ${ma}Alexia Rivera${re} <${cy}https://github.com/${ma}alexiarstein${re}>"
+echo ""
+echo "  Developer: ${ma}Brendon Matthews${re} <${cy}https://github.com/${ma}goatfungus${re}>"
+echo ""
+echo ""
+echo ""
+echo "Launching Linux Port... ${gr}[${cy} OK ${gr}]${re}"
+	jdk/bin/java -jar jar/NMSSaveEditor.jar
