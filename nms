@@ -8,12 +8,28 @@
 # Main development
 # Author: GoatFungus https://github.com/goatfungus
 # ----------------------------------------------------------
+# Debido a que github me limita en cuanto al tamaño de algunos archivos
+# tuve que comprimir lib/modules en el sdk y hacer una eval
+# para descomprimirlo solo si no se descomprimio antes. 
+
+
 cy=$(tput setaf 6)
 re=$(tput init)
 gr=$(tput setaf 2)
 ma=$(tput setaf 5)
 # bash is beautiful.
 clear
+echo "Checking if java module is OK..."
+if [ -e jdk/lib/modules ]; then
+echo "Java Module: ${gr}[$re OK ${gr}]${re} Launching.."
+sleep 0.5
+else
+echo "Java Module: [ NOT FOUND ] Deploying..."
+tar xvf jdk/lib/modules.tar.gz -C jdk/lib/
+sleep 0.5
+clear
+fi
+
 echo "${cy}* * * ${gr}NO MAN'S SKY SAVE EDITOR - LINUX VERSION ${ma}(PORTABLE) ${cy}* * *${re}"
 echo ""
 echo "  Linux Port by ${ma}Alexia Rivera${re} <${cy}https://github.com/${ma}alexiarstein${re}>"
