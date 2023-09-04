@@ -1,0 +1,39 @@
+[DEBUG] Java Vendor: Oracle Corporation
+[DEBUG] Java Version: 20.0.2
+[DEBUG] Java Architecture: amd64
+[DEBUG] Operating System: Linux
+[DEBUG] Working Dir: /home/alexia/git/nmsportable/jar
+[DEBUG] Look and Feel: FlatLaf Light
+[INFO] Starting Editor...
+[INFO] Reading metadata for accountdata.hg
+[INFO] Reading metadata for save.hg
+[DEBUG] DecompressedSize: 1486166
+[DEBUG] Unknown1: 4146
+[INFO] Version: 1
+[INFO] TotalPlayTime: 0:40
+[INFO] Reading metadata for save2.hg
+[DEBUG] DecompressedSize: 1476659
+[DEBUG] Unknown1: 4146
+[INFO] Version: 1
+[INFO] TotalPlayTime: 0:13
+[INFO] Reading metadata for save3.hg
+[DEBUG] DecompressedSize: 1466003
+[DEBUG] Unknown1: 4146
+[INFO] Version: 1
+[INFO] TotalPlayTime: 0:02
+[INFO] Reading metadata for save5.hg
+[DEBUG] DecompressedSize: 4564482
+[DEBUG] Unknown1: 4146
+[INFO] Version: 1
+[INFO] TotalPlayTime: 71:09
+[INFO] Reading metadata for save6.hg
+[DEBUG] DecompressedSize: 4534994
+[DEBUG] Unknown1: 4146
+[INFO] Version: 1
+[INFO] TotalPlayTime: 71:04
+[DEBUG] Storage: Steam
+[DEBUG] Save Path: /home/alexia/Desktop/nms
+[INFO] Reading account data...
+[DEBUG] Mem Usage: 533/8351 MB
+[DEBUG] Latest version: "1.14.4"
+[DEBUG] Current version: "1.14.4"
