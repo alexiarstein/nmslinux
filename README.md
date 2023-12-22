@@ -1,6 +1,6 @@
 # nmsportable
 
-#No Man's Sky Editor For Linux (Portable)
+## No Man's Sky Editor For Linux (Portable)
 
 ## Description:
 
@@ -24,10 +24,8 @@ It would also be convenient to create a symlink to this directory somewhere of e
 
 
 
-##CREDITS:
+## CREDITS:
 
 The main work (almost all the work, to be honest) is done by goatfungus https://github.com/goatfungus
 
-I merely have made it a bit easier for Linux Players.
-
-I will update the jar file whenever he updates it. Please let me know if the jar file is outdated. 
+I merely have made it a bit easier for Linux Players. 
