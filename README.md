@@ -2,7 +2,7 @@
 
 #No Man's Sky Editor For Linux (Portable)
 
-##Description:
+## Description:
 
 This is a portable port (heh) for GoatFungus' No Man's Sky Save Editor for Linux Users
 
@@ -11,7 +11,7 @@ It does not require Java to be installed in order to run thus it can be ran
 In SteamDeck or just about any other Linux Operating System.
 
 
-##USE:
+## USE:
 
 run ./nms
 
