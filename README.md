@@ -1,5 +1,9 @@
 # nmsportable
 
+### Update:
+
+Updated today for OMEGA Expedition update. All credits go to GoatFungus. As usual. 
+
 ## No Man's Sky Editor For Linux (Portable)
 
 ## Description:
